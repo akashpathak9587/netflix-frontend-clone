@@ -16,3 +16,6 @@
 - faq section with toggle effect which will hide and show the content according to the radio label which has been checked
 - Sudo element ::after to add the text after each of radio label in faq section
 - Footer section of website with responsive flex layout
+- Transition property is used to rotate the sudo text when the content is hidden or shown
+- Radio attribute selector with checked property is used to display and hide the content of respective label in faq section
+- Transition property is used to smoothly toggle the padding and height of content in faq section
